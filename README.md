@@ -10,7 +10,7 @@ this is mainly for my benefit, as the it help to get the code to sink in. I may 
 but at least I'll understand it - lol.
 
 ## Links
-- [Password Generator]()
+- [Password Generator](https://beefs4000.github.io/Random-Password-Generator/)
 - [Video Turorial on creating a Random Password Generator](https://www.youtube.com/watch?v=duNmhKgtcsI)
 - [CharSet](http://www.net-comber.com/charset.html)
 
